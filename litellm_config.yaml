@@ -1,0 +1,6 @@
+model_list:
+  - model_name: "ollama/qwen2.5:1.5b"
+    litellm_params:  
+      model: "ollama/qwen2.5:1.5b"
+      api_base: "http://127.0.0.1:11434"
+      api_key: "any"
